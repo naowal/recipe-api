@@ -1,0 +1,5 @@
+git clone https://github.com/naowal/recipe-api
+Create Requirements.txt
+Create Dockerfile and Edit
+sudo docker build .
+mkdir app
